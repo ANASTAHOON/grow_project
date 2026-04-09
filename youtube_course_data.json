@@ -1,0 +1,411 @@
+[
+    {
+        "course_name": "رياضيات الصف الاول الاعدادي 2026 ترم اول مستر محمد ابراهيم",
+        "description": "",
+        "grade_level": "عام",
+        "units": [
+            {
+                "unit_title": "الوحدة الأولى: أساسيات الكورس",
+                "order": 1,
+                "lessons": [
+                    {
+                        "lesson_title": "اقوي ‪تاسيس جبر  | اولي اعدادي  | شرح عالي 🔥🔥 مستر محمد ابراهيم",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.co...",
+                        "order": 1,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: اقوي ‪تاسيس جبر  | اولي اعدادي  | شرح عالي 🔥🔥 مستر محمد ابراهيم",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=Cp7G2yJB45w"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪تأسيس هندسة اولي اعدادي 2026",
+                        "description": "‪تأسيس هندسة اولي اعدادي \nمستر محمد ابراهيم \n\n\n\n 👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب ...",
+                        "order": 2,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪تأسيس هندسة اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=uXMMBVzULa0"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الاول رياضيات الصف الاول الاعدادي | التناسب شرح خيالي 2026🔥🔥| اولي اعدادي",
+                        "description": "الدرس الاول رياضيات الصف الاول الاعدادي | التناسب شرح خيالي 2026🔥🔥| اولي اعدادي \nالدرس الاول رياضيات...",
+                        "order": 3,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الاول رياضيات الصف الاول الاعدادي | التناسب شرح خيالي 2026🔥🔥| اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=d4IakNa3-h8"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "حل تمارين 1 علي التناسب | من كتاب المعاصر | اولي اعدادي 2026",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.com...",
+                        "order": 4,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: حل تمارين 1 علي التناسب | من كتاب المعاصر | اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=syMusFe3u4U"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الثاني جبر | مقياس الرسم اولي اعدادي",
+                        "description": "👈 اساسيات الآلة الحاسبة \nhttps://youtu.be/x4P8wPCQq_Q?si=ryv_YiVWGrHgjSIW\n\n\n\n 👈 جروب التيليجرام \n\nht...",
+                        "order": 5,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الثاني جبر | مقياس الرسم اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=Jh9Wv05hYeM"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪رياضيات | حل تمارين 2 علي مقياس الرسم | المعاصر | جبر اولي اعدادي 2026",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.com...",
+                        "order": 6,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪رياضيات | حل تمارين 2 علي مقياس الرسم | المعاصر | جبر اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=JR_cUSe_AYw"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "درس | تطبيقات النسبة والتناسب ـ ‪‪التقسيم التناسبي  كامل | اولي اعدادي",
+                        "description": "👈  الآلة الحاسبة \nhttps://youtu.be/x4P8wPCQq_Q?si=ryv_YiVWGrHgjSIW\n\n\n\n 👈 جروب التيليجرام \n\nhttps://t...",
+                        "order": 7,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: درس | تطبيقات النسبة والتناسب ـ ‪‪التقسيم التناسبي  كامل | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=7NNgJD2AKYU"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪رياضيات | حل تمارين 3 علي التقسيم التناسبي  | المعاصر | جبر اولي اعدادي 2026",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.com...",
+                        "order": 8,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪رياضيات | حل تمارين 3 علي التقسيم التناسبي  | المعاصر | جبر اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=vwsxWjJ6qzI"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "تطبيقات النسبة والتناسب | ‪‪النسبة المئوية | اولي اعدادي",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.com...",
+                        "order": 9,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: تطبيقات النسبة والتناسب | ‪‪النسبة المئوية | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=jXMuz0Jk1hs"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪رياضيات|حل تمارين 4 علي تطبيقات النسبة والتناسب تطبيقات النسبة المئوية المعاصر جبر اولي اعدادي 2026",
+                        "description": "👈 جروب التيليجرام \n\nhttps://t.me/naawsany\n\n\n👈 جروب سؤال وجواب علي فيس بوك \n\nhttps://www.facebook.com...",
+                        "order": 10,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪رياضيات|حل تمارين 4 علي تطبيقات النسبة والتناسب تطبيقات النسبة المئوية المعاصر جبر اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=seel2cYwJRc"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "درس |  المجموعات والعمليات عليها كامل | اولي اعدادي  | شرح تفصيلي",
+                        "description": "👈 اتعلم الشغل الآلة الحاسبة \nhttps://youtu.be/x4P8wPCQq_Q?si=ryv_YiVWGrHgjSIW\n\n 👈 جروب التيليجرام \n\n...",
+                        "order": 11,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: درس |  المجموعات والعمليات عليها كامل | اولي اعدادي  | شرح تفصيلي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=t1hg-kbtq6s"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "رياضيات العمليات علي الاعداد الصحيحة | اولي اعدادي",
+                        "description": "👈  التيليجرام  \n\nhttps://t.me/naawsany...",
+                        "order": 12,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: رياضيات العمليات علي الاعداد الصحيحة | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=430YOU9JB8Y"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "العمليات علي الاعداد النسبية",
+                        "description": "👈  التيليجرام للمتابعة \n\nhttps://t.me/naawsany\n\n\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من ا...",
+                        "order": 13,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: العمليات علي الاعداد النسبية",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=7ZNv-KqIkqM"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪التعبيرات والصيغ الرياضية جمع وطرح الحدود الجبرية | اولي اعدادي",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 14,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪التعبيرات والصيغ الرياضية جمع وطرح الحدود الجبرية | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=PE5sgUPgjHE"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "مراجعة شهر أكتوبر مراجعة رياضيات الصف الاول الاعدادي علي الوحدة الأولي | مراجعة اولي اعدادي رياضيات🔥",
+                        "description": "مراجعة شهر أكتوبر مراجعة رياضيات الصف الاول الاعدادي علي الوحدة الأولي | مراجعة اولي اعدادي رياضيات🔥...",
+                        "order": 15,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: مراجعة شهر أكتوبر مراجعة رياضيات الصف الاول الاعدادي علي الوحدة الأولي | مراجعة اولي اعدادي رياضيات🔥",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=hA0QKjCBcmQ"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪جمع وطرح المقادير الجبرية | اولي اعدادي",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 16,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪جمع وطرح المقادير الجبرية | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=6NNDuM9QKmY"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "رياضيات الصف الاول الاعدادي درس المعادلات الخطية | الدرس الثالث الوحدة الثانية اولي اعدادي 2026",
+                        "description": "رياضيات الصف الاول الاعدادي درس المعادلات الخطية | الدرس الثالث الوحدة الثانية اولي اعدادي 2026\nرياض...",
+                        "order": 17,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: رياضيات الصف الاول الاعدادي درس المعادلات الخطية | الدرس الثالث الوحدة الثانية اولي اعدادي 2026",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=zFnYgeBpQfs"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الاول هندسة | ‪انواع الزوايا والعلاقات بين الزوايا | اولي اعدادي",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 18,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الاول هندسة | ‪انواع الزوايا والعلاقات بين الزوايا | اولي اعدادي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=_6t5Km6QL0Y"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪الدرس الثاني هندسة اولي اعدادي تابع العلاقات بين الزوايا",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 19,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪الدرس الثاني هندسة اولي اعدادي تابع العلاقات بين الزوايا",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=ep21ui_GPiY"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪الدرس الثالث هندسة اولي اعدادي التوازي",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 20,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪الدرس الثالث هندسة اولي اعدادي التوازي",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=qGVHZ75dsgs"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪مراجعة امتحان نوفمبر جبر اولي اعدادي | رياضيات مستر محمد ابراهيم",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 21,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪مراجعة امتحان نوفمبر جبر اولي اعدادي | رياضيات مستر محمد ابراهيم",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=gs4FDPbncnc"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪مراجعة امتحان نوفمبر هندسة اولي اعدادي | رياضيات مستر محمد ابراهيم",
+                        "description": "ما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhttps://www.youtube.com/channel/UC5R1mBnI_...",
+                        "order": 22,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪مراجعة امتحان نوفمبر هندسة اولي اعدادي | رياضيات مستر محمد ابراهيم",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=Mz3xDM0xPnk"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪الدرس الرابع هندسة اولي اعدادي المثلث",
+                        "description": "الدرس الرابع هندسة اولي اعدادي المثلث\n\n\nجروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب...",
+                        "order": 23,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪الدرس الرابع هندسة اولي اعدادي المثلث",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=h6MyWzBplVs"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "‪الدرس الخامس هندسة اولي اعدادي خواص الاشكال الرباعية",
+                        "description": "الدرس الخامس هندسة اولي اعدادي خواص الاشكال الرباعية\n\nجروب التيليجرام \nhttps://t.me/naawsany\nما عليك...",
+                        "order": 24,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: ‪الدرس الخامس هندسة اولي اعدادي خواص الاشكال الرباعية",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=I1qyW98yh7Q"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "هندسة اولي اعدادي تابع خواص الاشكال الرباعية",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nhtt...",
+                        "order": 25,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: هندسة اولي اعدادي تابع خواص الاشكال الرباعية",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=jNjxTf2ebs8"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس السابع هندسة اولي اعدادي | المضلعات 🔥🔥",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 26,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس السابع هندسة اولي اعدادي | المضلعات 🔥🔥",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=MsjdOSV9xxo"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الثامن هندسة اولي اعدادي الاحداثيات",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 27,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الثامن هندسة اولي اعدادي الاحداثيات",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=6wjTRe15aNs"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الاول إحصاء تنظيم البيانات رياضيات اولي اعدادي  رياضيات الصف الاول الاعدادي مستر محمد ابراهيم",
+                        "description": "الدرس الاول إحصاء تنظيم البيانات رياضيات اولي اعدادي  رياضيات الصف الاول الاعدادي مستر محمد ابراهيم\n...",
+                        "order": 28,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الاول إحصاء تنظيم البيانات رياضيات اولي اعدادي  رياضيات الصف الاول الاعدادي مستر محمد ابراهيم",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=VTbCg-ckASI"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الثاني إحصاء الوسط الحسابي  ( المتوسط )",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 29,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الثاني إحصاء الوسط الحسابي  ( المتوسط )",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=12272Xy6xKg"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "الدرس الاخير في المنهج | الدرس الثالث الوحدة الرابعة رياضيات | القطاعات الدائرية مستر محمد ابراهيم",
+                        "description": "الدرس الاخير | إحصاء | الدرس الثالث الوحدة الرابعة رياضيات | القطاعات الدائرية مستر محمد ابراهيم \nما...",
+                        "order": 30,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: الدرس الاخير في المنهج | الدرس الثالث الوحدة الرابعة رياضيات | القطاعات الدائرية مستر محمد ابراهيم",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=s92AlWv1jdQ"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "المراجعة النهائية هندسة اولي اعدادي مراجعة الوحدة 3",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 31,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: المراجعة النهائية هندسة اولي اعدادي مراجعة الوحدة 3",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=Y-EWlEPGYhk"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "المراجعة النهائية | جبر هندسة إحصاء اولي اعدادي | مراجعة المنهج كامل ليلية الامتحان",
+                        "description": "جروب التيليجرام \nhttps://t.me/naawsany\n\nما عليك سوى الانتساب إلى هذه القناة للاستفادة من المزايا:\nht...",
+                        "order": 32,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: المراجعة النهائية | جبر هندسة إحصاء اولي اعدادي | مراجعة المنهج كامل ليلية الامتحان",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=YTZrVkX6AaQ"
+                            }
+                        ]
+                    },
+                    {
+                        "lesson_title": "مراجعة المنهج كامل رياضيات ليلة امتحان اولي اعدادي ترم اول عام وازهر",
+                        "description": "...",
+                        "order": 33,
+                        "materials": [
+                            {
+                                "title": "فيديو شرح: مراجعة المنهج كامل رياضيات ليلة امتحان اولي اعدادي ترم اول عام وازهر",
+                                "type": "video",
+                                "url": "https://www.youtube.com/watch?v=VOponabBNYY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
